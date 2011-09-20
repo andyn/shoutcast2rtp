@@ -1,0 +1,5 @@
+shoutcast2rtp
+=============
+
+A SHOUTcast to RTP audio streaming proxy server.
+For more comprehensive documentation, please see the doc/ subdirectory.
